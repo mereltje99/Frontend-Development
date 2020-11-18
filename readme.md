@@ -64,7 +64,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
-<img src="images/spreadsheet.png" width="375px" alt="volledige sheet">
+<img src="images/spreadsheetvol.png" width="375px" alt="volledige sheet">
 <img src="images/tussensheet.png" width="375px" alt="header en main sheet">
 <img src="images/footersheet.png" width="375px" alt="footer spread">
 
