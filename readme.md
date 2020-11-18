@@ -64,7 +64,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
-
+<img src="images/spreadsheet.png" width="375px" alt="volledige sheet">
+<img src="images/tussensheet.png" width="375px" alt="header en main sheet">
+<img src="images/footersheet.png" width="375px" alt="footer spread">
 
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
@@ -79,24 +81,19 @@ Mijn focus ligt op dit moment bij surface plane, stel dat ik hiermee niet verder
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
-Doordat ik nog niet echt een keuze heb gemaakt zijn het er twee geworden waar ik de eerste les vragen over ga stellen:
+Mijn gekoze site is happyhappyjoyjoy
 
 - https://happyhappyjoyjoy.asia (homepagina)
 - https://happyhappyjoyjoy.asia/contact/ (contactpagina)
 
-- https://www.ouwehand.nl (homepagina)
-- https://www.ouwehand.nl/nl/contact (contactpagina)
-
--
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
 <img src="images/happyhappyjoyjoy_contact.png" width="375px" alt="Contact pagina happyhappyjoyjoy">
 
-<img src="images/ouwehands_contac.png" width="375px" alt="Home pagina happyhappyjoyjoyOuwehands contact pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
 <img src="images/happyhappyjoyjoy_home.png" width="375px" alt="Home pagina happyhappyjoyjoy">
 
-<img src="images/ouwehands_home.png" width="375px" alt="Ouwehands home pagina">
+
