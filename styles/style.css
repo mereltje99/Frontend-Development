@@ -16,8 +16,7 @@
 
 nav{
 	background-color: black;
-	color: white;
-	display:flex;	
+	color: white;	
 	position:sticky;
 	right: 0px;
 	top: 0px;
@@ -25,7 +24,8 @@ nav{
 nav ul{
 	color: white;
 	text-decoration: none;
-	flex-direction: 
+	display:flex;
+
 
 
 }
