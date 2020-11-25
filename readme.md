@@ -38,21 +38,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
+Ik heb het zeker weer eens onderschat en spijt dat ik niet vanaf week 1 al was begonnen met mijn site. Ik snap de elementen los van elkaar maar er een geheel van maken vind ik heel lastig. Zoals een hamburger menu maken is een groot punt. Ik kan los het menu maken en de streepjes maar snap niet hoe ik er een geheel van moet maken.
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
 
+<img src="images/voortgang1.png" width="375px" alt="eerste layout website">
 -screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+|Bente     |Joep         | Merel    | Ian      |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| hoe plaats je  | hoe je een website           | hoe connect ik mijn twee elementen   | de layout    |
+| een dorpdown icoon| simpel responsive maakt | voor het hamburger menu | dit wil ik zeker |positionering van plaatjes
+| naast de summary         | ...                | waarom heb ik padding bij mijn achtergond en header        | dit weekend ga ik een start maken               |
 
 ### Verslag van meeting
 

@@ -14,7 +14,7 @@
     text-decoration: none;
 }*/
 
-nav{
+/*nav{
 	background-color: black;
 	color: white;	
 	position:sticky;
@@ -25,6 +25,7 @@ nav ul{
 	color: white;
 	text-decoration: none;
 	display:flex;
+left
 
 
 
@@ -34,3 +35,157 @@ nav ul li{
 	text-decoration: none;
 	
 }
+/*/
+body{
+	margin: 0;
+	padding:0;
+	background-color: lightgray;
+}
+
+
+div[role=menu] {
+    
+ 	background-color: pink;
+    height: 3px;
+    width: 30px;
+    position: relative;
+
+}
+
+ div[role=menu]::before{
+ 	 content: '';
+    background-color: pink;
+    height: 3px;
+    width: 30px;
+    top: 1em;
+    position: absolute;
+
+ }
+
+ div[role=menu]::after{
+ 	 content: '';
+    background-color: pink;
+    height: 3px;
+    width: 30px;
+    top: .5em;
+    position: absolute;
+ }
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black ;
+  top: -1em;
+}
+
+li {
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+h1{
+	Color:white;
+	text-align: center;
+}
+.headerachtergrond{
+	background-image: url(https://happyhappyjoyjoy.asia/wp-content/uploads/2019/07/header-locaties.jpg)!important;
+	background-size:cover;
+	background-repeat: no-repeat;
+	height: 12em;
+
+}
+.beginbuttons button{
+	background-color: #dd0531!important;
+	color:white;
+	margin:0; padding:.5em;
+}
+body p:first-of-type{
+	color:white;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+
+#tussenstuk{
+	background-color: #dd0531!important;
+	color:white;
+	text-align: center;
+	padding: 12px;
+}
+
+#tussenstuk button{
+	background-color: white;
+	padding: 12px;
+	color:#dd0531!important;
+}
+.locaties h2{
+	color:#dd0531!important;
+}
+.locaties button{
+	background-color: #dd0531!important;
+	color:white;
+	margin:0; padding:.5em;
+}
+
+#blok1{
+	background-color: #dd0531!important;
+	color:white;
+
+}
+
+#blok2{
+background-color: #dd0531!important;
+	color:white;
+}
+
+#blok3{
+	background-color: #dd0531!important;
+	color:white;
+
+}
+
+#blok4{
+	background-color: #dd0531!important;
+	color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
