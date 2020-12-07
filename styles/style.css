@@ -126,6 +126,7 @@ li {
 li a {
   display: inline-block;
   color: white;
+  justify-content: center;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -142,7 +143,7 @@ h1{
 	background-image: url(https://happyhappyjoyjoy.asia/wp-content/uploads/2019/07/header-locaties.jpg)!important;
 	background-size:cover;
 	background-repeat: no-repeat;
-	height: 30em;
+	height: 43em;
 
 }
 /*Bron caro voor deze ene regel code 10 out of 10*/
@@ -176,11 +177,71 @@ main  li:first-of-type{
 	justify-content: space-around;
 	justify-content: space-between;
 }
+ main h3{
+    background-color: #dd0531!important;
+	color: #dd0531!important;
+	text-decoration: none;
+	justify-content: center;
+	text-align: center;
+	margin:0.5em;
+	padding: 1em;
+	font-size: 1em;
+	width: 15em;
+	position: center;
+	margin-left: 4em;
+	font-family: 'futura book',Helvetica,Arial,Lucida,sans-serif!important
+	letter-spacing: 1px;
+
+ }
+ main h3 a:nth-of-type(4){
+ 	color:blue;
+	
+}
+ main img:first-of-type { 
+ 	width: 30em;
+ 	height: 13em;
+ 	z-index: -5;
+ 
+ }
+ main img:nth-of-type(2){
+ 	width: 30em;
+ 	height: 13em;
+
+ }
+  main img:nth-of-type(3){
+  	width: 30em;
+  	height: 13em;
+
+ }
+  main img:nth-of-type(4){
+  	width: 30em;
+  	height: 13em;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 h2{
 	font-family: 'futura zwaar',Helvetica,Arial,Lucida,sans-serif;
     color: #e02b20!important;
-    margin-top: 5em;
+    margin-top: 3em;
 }
 h3{
 	background-color: #dd0531!important;
