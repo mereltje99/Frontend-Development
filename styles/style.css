@@ -177,6 +177,54 @@ main  li:first-of-type{
 	justify-content: space-between;
 }
 
+h2{
+	font-family: 'futura zwaar',Helvetica,Arial,Lucida,sans-serif;
+    color: #e02b20!important;
+    margin-top: 5em;
+}
+h3{
+	background-color: #dd0531!important;
+	color: #dd0531!important;
+	text-decoration: none;
+	justify-content: center;
+	text-align: center;
+	margin:2em;
+	padding: 1em;
+}
+h3 a{
+	color: white;
+	justify-content: center;
+	position: center;
+	text-decoration: none;
+
+	}
+
+section{
+	background-color: #dd0531!important;
+	text-align: center;
+	padding: 0.75em;
+
+}
+section > h2{
+	color:white;
+	text-align: left;
+	background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*tot hier heb ik mijn code nog opgeschoont de rest doe ik nog stapje voor stapje*/
