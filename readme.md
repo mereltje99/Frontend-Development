@@ -30,7 +30,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik ben flink aan de slag gegaan met positief resultaat. Ik begin code leuker te vinden en besteed er meer tijd aan. Na het eerste feedback gesprek heb ik mijn code opgeruimd. Ik kan zelfs bijna beginnen aan mijn tweede pagina :).
 
 
 
@@ -50,14 +50,26 @@ Ik heb het zeker weer eens onderschat en spijt dat ik niet vanaf week 1 al was b
 
 -samen met je groepje opstellen-
 
+week 1
 |Bente     |Joep         | Merel    | Ian      |
 | ---            | ---                | ---          | ---              |
 | hoe plaats je  | hoe je een website           | hoe connect ik mijn twee elementen   | de layout    |
 | een dorpdown icoon| simpel responsive maakt | voor het hamburger menu | dit wil ik zeker |positionering van plaatjes
 | naast de summary         | ...                | waarom heb ik padding bij mijn achtergond en header        | dit weekend ga ik een start maken               |
 
+week 2
+|Bente     |Joep         | Merel    | Ian      |
+| ---            | ---                | ---          | ---              |
+| Ik wil graag hulp met js voor de 'slider'  | Niks          | Hoe ver moet mijn formulier werken?  | Ik wil graag wat hulp met m’n Java script    |
+| Ik wil graag hulp bij de verkleuring van de achtergrond | - |  |
+|         | ...                |         |                |
+
+
 ### Verslag van meeting
 
+ feedback 1 - was een gesprek waar ik veel aan had en werdt geholpen met het samenstellen van mijn hamburger menu. verder kreeg ik te horen dat ik minder classes en id's moest gebruiken als het niet nodig was. Mijn doel voor het volgende gesprek is om minder tot geen classes en id's te gebruiken en verder mijn code uitbouwen.
+
+feedback 2 - 
 -na afloop snel uitkomsten vastleggen-
 
 
