@@ -25,6 +25,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 3 (week 6)
 
 -same as voortgang 1-
+Ik ben deze week deels al begonnen aan mijn ander pagina. Ik loop daar helaas wel weer vast met mijn section waar de achtergrond foto niet weg wilt. Terwijl ik her el een background-color geef maar die is alleen te zien als ik hem refresh en dan is die weer weg. Dus dat is zeker iets wat ik in de komende tijd moet gaan onderzoeken. Verder gaat het erg goed en maak ik grote stappen door alle geboden hulp die ik krijg van Sanne en Melvin. Verder bespreek ik soms ook mijn problemen met andere Studenten zoals  Carolin. Ook begin ik code steeds leuker te vinden eigenlijk beter dan verwacht. Tegenwoordig zit ik het liefst aan Fed en niet meer aan de andere vakken wat in het begin echt niet het geval was. ( verder biedt ik ook mijn excuses aan dat ik hem deze week niet voor 6 heb ingeleverd door omstandigheden thuis)
+
+<img src="images/contactpagina.png" width="375px" alt="contact pagina">
+
+<img src="images/homepaginavoortgang3.png" width="375px" alt="versie 3 van homepagina">
 
 
 
@@ -65,13 +70,23 @@ week 2
 |         | ...                |         |                |
 
 
+week 3
+|Bente     |Joep         | Merel    | Ian      |
+| ---            | ---                | ---          | ---              |
+|  - |   -| waarom blijft mijn achtergrond afbeelding staan  | -  |
+| -| - | - |
+|    -    |        -       |      -  |        -       |
+
+
 ### Verslag van meeting
 
  feedback 1 - was een gesprek waar ik veel aan had en werdt geholpen met het samenstellen van mijn hamburger menu. verder kreeg ik te horen dat ik minder classes en id's moest gebruiken als het niet nodig was. Mijn doel voor het volgende gesprek is om minder tot geen classes en id's te gebruiken en verder mijn code uitbouwen.
 
 feedback 2 - 
 -na afloop snel uitkomsten vastleggen-
+Ik kreeg vooral de feedbakc dat ik meer aan mijn procesboek moet werken en er meer content in moet zetten. Ik begrijp dit zelf ook omdat ik bijna geen aandacht aan mijn procesboek heb besteed en meer op mijn code. Ik heb flinke stappen gezet door de hulp van de andere. Verder is Sanne door mijn code heen gelopen om te kijken wat opgeschoonend kon worden. Hierdoor ben ik er achter gekomen dat ik vaak onnedige code in mijn css had staan wat simpeler en korter kon. 
 
+feedback 3 - 
 
 
 ## Breakdownschets (week 1)
