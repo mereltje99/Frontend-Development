@@ -6,9 +6,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Sanne
+2. Marvin
+3. Carolin
+4. Facebook icoon - Wikipedia. (z.d.). Facebook icoon [foto]. Geraadpleegd van https://www.google.com/search?as_st=y&tbm=isch&hl=nl&as_q=facebook+icon+svg&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=ic:trans#imgrc=ru48MPqSIjBLfM
+5. Instagram icoon - elharrakfonts. (z.d.). Instagram icoon [foto]. Geraadpleegd van https://www.google.com/search?q=instagram+icon+svg+&tbm=isch&ved=2ahUKEwjSiqSo04LuAhUDD-wKHb4iDbsQ2-cCegQIABAA&oq=instagram+icon+svg+&gs_lcp=CgNpbWcQAzIECAAQEzIECAAQEzIECAAQEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBM6BggAEAcQHjoICAAQCBAHEB5QjqISWLi8EmCpwBJoA3AAeACAAUCIAYYFkgECMTKYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ei=6zvzX5LpCYOesAe-xbTYCw&safe=images&tbs=ic%3Atrans&hl=nl#imgrc=j3x8nxunVP69uM
+6. linked in icoon - Iconscout. (z.d.). Linked in icoon [foto]. Geraadpleegd van https://www.google.com/search?q=linkedin+icon+svg&tbm=isch&hl=nl&safe=images&tbs=ic:trans&sa=X&ved=2ahUKEwj986He1YLuAhUTLOwKHZ6GBpwQBXoECAEQLg&biw=1428&bih=840#imgrc=EunzbaJLNMJ2DM
+7. een werkend telefoon nummer waaar op gedrukt kan worden bron -  Onak, G. O. A. G. (2020, 3 augustus). How to Create a Click to Call Link Using HTML and in WordPress. Geraadpleegd op 10 januari 2021, van https://www.gaintap.com/blog/clickable-website-phone-number-and-call-tracking-guide/
+8. 
 
 
 
@@ -87,6 +92,9 @@ feedback 2 -
 Ik kreeg vooral de feedbakc dat ik meer aan mijn procesboek moet werken en er meer content in moet zetten. Ik begrijp dit zelf ook omdat ik bijna geen aandacht aan mijn procesboek heb besteed en meer op mijn code. Ik heb flinke stappen gezet door de hulp van de andere. Verder is Sanne door mijn code heen gelopen om te kijken wat opgeschoonend kon worden. Hierdoor ben ik er achter gekomen dat ik vaak onnedige code in mijn css had staan wat simpeler en korter kon. 
 
 feedback 3 - 
+-na afloop snel uitkomsten vastleggen-
+Wat voornamelijk naar voren kwam in het gesprek was at ik goed bezig was en redelijk op weg. Ik moest wel meer tijd besteden aan mijn procesboek.
+
 
 
 ## Breakdownschets (week 1)
