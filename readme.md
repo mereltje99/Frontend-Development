@@ -75,6 +75,30 @@ contact pagina
 Wederom heb ik hier weer hetzelfde met de h2 en p wat ik ook bij de home pagina had. Ik heb hiervoor er nog nooit zo erg naar gekeken of ik verdiept. Dus dit is zeker een verbeterd punt. Verder kwam ik er. wel achter dat mijn form toegankelijk is voor iedereen omdat die het veld netjes opleest en zegt wat je erin met schrijven. Dus komt het nog ergens op de site goed gelukkig.
 
 
+
+## Voortgang animatie
+
+<img src="images/codeanimatie.png" width="375px" alt="javasccript code animatie">
+
+Een grote verandering door de weken heen is het toevoegen van de animatie. Dit was mij niet gelukt met Sanne en hebben we dit stuk voor stuk samen geprogrammeerd. Ik ben super blij met het eind resultaat ervan.
+
+
+## Voortgang formulier
+
+before
+
+<img src="images/contactpagina.png" width="375px" alt="contact pagina">
+
+after 
+
+<img src="images/contactpagina4.png" width="375px" alt="bovenste gedeelte contact pagina">
+
+<img src="images/contactpaginab.png" width="375px" alt="onderste gedeeltecontact pagina">
+
+Ik ben zeer tevreden met de veranderingen met mijn styling die ik heb gedaan tussen de weken door. Helaas heb ik niet van alles een proces foto maar de contact pagina foto is een van de duidelijkste veranderingen die ik heb gemaakt over de weken heen. Door lang te zoeken en voorbeelden te hebben bekeken ben ik er achter gekomen hoe ik mijn form moet style en dit is het resultaat ervan geworden.
+
+
+
 ## Voortgang 3 (week 6)
 
 -same as voortgang 1-
@@ -141,7 +165,7 @@ Ik kreeg vooral de feedbakc dat ik meer aan mijn procesboek moet werken en er me
 
 feedback 3 - 
 -na afloop snel uitkomsten vastleggen-
-Wat voornamelijk naar voren kwam in het gesprek was at ik goed bezig was en redelijk op weg. Ik moest wel meer tijd besteden aan mijn procesboek.
+Wat voornamelijk naar voren kwam in het gesprek was dat ik goed bezig was en redelijk op weg. Ik moest wel meer tijd besteden aan mijn procesboek.
 
 
 

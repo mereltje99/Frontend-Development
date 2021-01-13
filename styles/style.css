@@ -9,6 +9,10 @@ body{
 	margin: 0;
 	padding:0;
 	background-color: lightgray;
+	--textColor:white;
+	--backgroundColor:black;
+	--h2color:white;
+
 }
 ul{
 	list-style: none;
@@ -22,14 +26,15 @@ li{
 }
 a{
 	text-decoration: none;
-	color:white;
+	color:var(--textColor);
 }
 
 /* de  verscchillende states van een soort link */
 a:hover { 
-  background-color: black;
-  color:white;
-  border: solid 1em white;
+  background-color:var(--backgroundColor);
+  color:var(--textColor);
+  border: solid 1em var(--textColor);
+
 }
 
 input[type=text]:focus {
@@ -42,7 +47,15 @@ a:active {
   color:white;
   border: solid 1em white;
 } 
+/* dark mode*/
+@media (prefers-color-scheme: dark) {
+	body{
+		--textColor:black;
+		--backgroundColor:white;
+		--h2color:black;
+	}
 
+}
 
 /*header*/
 header{
@@ -50,6 +63,9 @@ header{
 	background-color: black;
 	justify-content: space-between;
 	align-items: center;
+	z-index: 100;
+	position: relative;
+
 	
 }
 header > a{
@@ -68,7 +84,7 @@ div[role="menu"] {
     height: 3px;
     width: 30px;
     position: relative;
-    z-index: 100;
+    z-index: 200;
     top: -0.5em;
     left: -2em;
 }
@@ -153,7 +169,7 @@ main  h2{
 
 main section:first-of-type{
 	min-height: 35em;
-	color: white;
+	color: var(--textColor);
 	text-align: center;
 	padding: 4em 1em;
 	display: grid;
@@ -219,7 +235,7 @@ main section:nth-of-type(2) h3{
 
  }
  main section:nth-of-type(3) h2{
- 	color:white;
+ 	color: var(--h2color);
     text-transform: uppercase;
     text-align: left;
 
@@ -240,7 +256,7 @@ main section:nth-of-type(2) h3{
 /*hier beginnen de zwevende blokjes aangesproken allemaal tegelijk*/
  main section:nth-of-type(4),
  main section:nth-of-type(5),
- main section:nth-of-type(6) ,
+ main section:nth-of-type(6),
  main section:nth-of-type(7){
  	background-color: #dd0531;
  	margin: 3em 2em;
@@ -259,7 +275,7 @@ main section:nth-of-type(2) h3{
  main section:nth-of-type(7) h2{
 	line-height: 1.7em;
     text-transform: uppercase;
-    color:white;
+    color: var(--h2color);
     padding: 1em 1em 0em;
 }
 
@@ -423,36 +439,26 @@ section.contact img{
  	100% {
     opacity: 1;
     transform: translateY(0%);
+
   }
 }
-.fadein main section:nth-of-type(4){
+ main section:nth-of-type(4).fadein,
+ main section:nth-of-type(5).fadein,
+ main section:nth-of-type(6).fadein,
+ main section:nth-of-type(7).fadein{
 	animation-play-state: running;
 }
 
-.fadein{
 
-}
-
-
- main section:nth-of-type(4){
- 	animation-name: fadein; 
-
- } 
-
- main section:nth-of-type(5){
- 	animation-name: fadein; 
-
- } 
-
- main section:nth-of-type(6){
- 	animation-name: fadein; 
-
- }
-
+ main section:nth-of-type(4),
+ main section:nth-of-type(5),
+ main section:nth-of-type(6),
  main section:nth-of-type(7){
  	animation-name: fadein; 
+ 	animation-duration: 2s;
+ 	animation-play-state: paused;
 
- }
+ } 
 
  /* http://w3schools-fa.ir/jsref/event_onscroll.html */
  /* https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onscroll3 */
