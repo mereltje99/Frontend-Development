@@ -13,18 +13,66 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 5. Instagram icoon - elharrakfonts. (z.d.). Instagram icoon [foto]. Geraadpleegd van https://www.google.com/search?q=instagram+icon+svg+&tbm=isch&ved=2ahUKEwjSiqSo04LuAhUDD-wKHb4iDbsQ2-cCegQIABAA&oq=instagram+icon+svg+&gs_lcp=CgNpbWcQAzIECAAQEzIECAAQEzIECAAQEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBM6BggAEAcQHjoICAAQCBAHEB5QjqISWLi8EmCpwBJoA3AAeACAAUCIAYYFkgECMTKYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ei=6zvzX5LpCYOesAe-xbTYCw&safe=images&tbs=ic%3Atrans&hl=nl#imgrc=j3x8nxunVP69uM
 6. linked in icoon - Iconscout. (z.d.). Linked in icoon [foto]. Geraadpleegd van https://www.google.com/search?q=linkedin+icon+svg&tbm=isch&hl=nl&safe=images&tbs=ic:trans&sa=X&ved=2ahUKEwj986He1YLuAhUTLOwKHZ6GBpwQBXoECAEQLg&biw=1428&bih=840#imgrc=EunzbaJLNMJ2DM
 7. een werkend telefoon nummer waaar op gedrukt kan worden bron -  Onak, G. O. A. G. (2020, 3 augustus). How to Create a Click to Call Link Using HTML and in WordPress. Geraadpleegd op 10 januari 2021, van https://www.gaintap.com/blog/clickable-website-phone-number-and-call-tracking-guide/
-8. 
+8. voor het maken van de animatie heb ik hulp gekregen van Sanne
 
 
 
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
+Ik ben blij verrast met het product dat ik heb opgeleverd. Ik durf bijna te zeggen dat ik richting de Rode pieste kan gaan. Verder ben ik ook verbaasd op de kennis die ik nu beschik na het blok. Voordat ik hier aan begon had ik weinig tot geen zin in programmeren maar dit is positief verandert door de weken heen. Op een gegeven moment ging er een knop om en snapte ik het meer en vond ik het ook leuker om te doen (voornamelijk als iets lukte). Wat beter kon was minder vaak om hulp vragen wat ik op zich wel veel deed. Dit had te maken door soms het verband niet tussen de elementen te zien waardoor ik vast liep en om hielp vroeg. Mijn site was nooit zo ver gekomen zonder de hulp Sanne&Marvin en Caro. Telkens als ik vast liep, kon ik met mijn problemen bij hun terecht en zochten we het samen uit.
+
+Wat ik voor de volgende keer anders wil doen:
+
+Is eerder beginnen zodat ik meer extra dingen kon toevoegen aan mijn pagina's. Want ik heb nu namelijk het gevoel dat ik te weinig gedaan heb en er meer uit te halen viel. Ook had ik dan gekozen voor responsieve design in plaats van wat ik nu heb omdat ik daar meer aan had gehad voor later denk ik. Owja en meer verdiepen in Javascript omdat ik hier nog best wel vaak vragen over had en het had kunnen voorkomen als ik meer ermee geoefend had dan nu.
+
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
 
+Home pagina -
+
+<img src="images/homepaginaboven.png" width="375px" alt="homepagina header met nav">
+
+<img src="images/homepaginatussenstuk.png" width="375px" alt="homepagina locatie section">
+
+<img src="images/homepaginatekst.png" width="375px" alt="homepagina tekst secton">
+
+<img src="images/homepaginasection.png" width="375px" alt="homepagina eerste animatie section">
+
+<img src="images/homepaginafooter.png" width="375px" alt="homepagina footer section">
+
+Ik ben heel erg verbaasd hoe goed de home pagina is geworden. Het is beter geworden dan ik ooit had verwacht aan het begin. Natuurlijk heb ik hier wel veel hulp bij gehad van Sanne, Caro en Marvin. Zonder hun hulp was mijn home pagina nooit zo goed geworden en wil ik hun hiervoor bedanken. Verder ben ik ook verbaasd hoe goed ik het begon op te pakken met coderen door de weken heen. In het begin had ik er amper tot geen vertrouwen in en dacht ik al dat ik een herkansing zou moeten doen omdat code niet mijn sterkste punt is. Maar door de weken heen en opdrachten begreep ik er steeds meer en lukte het mij toe te passen op de home pagina met hier en daar natuurlijk de nodige hulp om het nog beter en handiger te maken. Een groot punt waar ik heel trots op ben is de animatie die ik samen met Sanne heb gemaakt voor de in vliegende section als je scrolt.
+
+
+Contact pagina -
+
+
+<img src="images/contactpagina4.png" width="375px" alt="bovenste gedeelte contact pagina">
+
+<img src="images/contactpaginab.png" width="375px" alt="onderste gedeeltecontact pagina">
+
+Ik ben denk ik het trots op de contact pagina om een simpele rede.Dat is dat ik daar het meest zelf heb gedaan en dat had ik niet verwacht dat het ook zou lukken. Het is niet te vergelijke met de eerste pagina en dat begrijp ik. Maar toch ben ik er heel trots op ook al is het zo klein in vergelijking tot de andere en minder style elementen. Verder ben ik er ook achtergekomen hoeveel moeite het kost om een formulier te style op een manier dat je zelf wilt. Daar heeft de nodige frustratie in gezeten maar met een positief eindresultaat.
+
+
+
+### Screenreader/VoiceOver verslag
+
+home pagina 
+
+<img src="images/homepaginaboven.png" width="375px" alt="homepagina header met nav">
+
+Ik had eter kunnen opschrijven wat de h2 inhoudt want als ik er nu overheen gaat, zegt die h2 maar niet wat de inhoudt ervan is. Hierdoor maak ik het niet gebruikersvriendelijk voor iedereen en had ik hier beter op moeten letten. Verder leest hij de links ook niet goed voor totdat je ze aanklikt en dan vertelt hij wel wat er staat. Kortom heb ik daar zeker nog een paar verbeter punten wat ik in het vervolg moet meenemen als ik weer een site programmeer.
+
+
+
+
+contact pagina 
+
+<img src="images/contactpaginab.png" width="375px" alt="onderste gedeeltecontact pagina">
+
+Wederom heb ik hier weer hetzelfde met de h2 en p wat ik ook bij de home pagina had. Ik heb hiervoor er nog nooit zo erg naar gekeken of ik verdiept. Dus dit is zeker een verbeterd punt. Verder kwam ik er. wel achter dat mijn form toegankelijk is voor iedereen omdat die het veld netjes opleest en zegt wat je erin met schrijven. Dus komt het nog ergens op de site goed gelukkig.
 
 
 ## Voortgang 3 (week 6)
@@ -114,7 +162,7 @@ Ik kies zeker weten voor de blauwe piesten omdat ik bijna nooit code schrijf of 
 
 **Je focus:** -kies uit responsive óf surface plane-
 
-Mijn focus ligt op dit moment bij surface plane, stel dat ik hiermee niet verder kom wil ik later misschien veranderen van richting.
+Mijn focus ligt op dit moment bij surface plane, stel dat ik hiermee niet verder kom wil ik later misschien veranderen van richting. Ben uiteindelijk voor surface plane gegaan omdat ik te weinig tijd had voor responsive.
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
